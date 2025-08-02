@@ -2,6 +2,11 @@
 
 NeuroTune is an innovative music analyzer designed to enhance music therapy using real-time EEG (electroencephalography) technology. This tool helps assess the suitability of songs for therapeutic purposes, allowing caregivers to select music that is more likely to benefit individuals, particularly those with cognitive or communication challenges like dementia and aphasia.
 
+**[Check out the video in action](https://www.youtube.com/watch?v=S9OEucX8x2k)**
+
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/fd90740e-9ff1-4ee9-b5d0-50ca149f6fb5" />
+
+
 ## Problem Statement
 
 Music therapy has been shown to improve cognitive function, emotional stability, social engagement, and communication skills. However, the success of music therapy depends heavily on **selecting the right music**. For individuals with conditions like **dementia** or **aphasia**, choosing the appropriate music can be challenging because they often have difficulty expressing their preferences reliably. Additionally, **access to qualified music therapists** is limited by factors like availability and cost.
